@@ -11,13 +11,6 @@ Visit www.vueacademy.ca for our list of Vue related courses:
 * Mastering Vue 3 (2 days)
 * Mastering Nuxt (1 day)
 
-## Vue Certifications!
-
-Test your Vue skills, try a <a href="https://www.vueacademy.ca/certification" target="_blank">Certification</a> exam!
-
-[![Vue Academy](https://www.vueacademy.ca/images/certification-badge.png "Vue Certifications")](https://www.vueacademy.ca/certification)
-
-
 ## Local installation
 
 You need to restore the npm dependencies first:
