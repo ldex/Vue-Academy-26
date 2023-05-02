@@ -1,0 +1,18 @@
+<template>
+  <div class="home">
+    <modal-button button-text="Open Modal!"></modal-button>
+    <img alt="Vue logo" src="../assets/logo.png">
+  </div>
+</template>
+
+<script>
+// @ is an alias to /src
+import ModalButton from '@/components/ModalButton.vue';
+
+export default {
+  name: 'HomeView',
+  components: {
+    ModalButton
+  }
+}
+</script>
